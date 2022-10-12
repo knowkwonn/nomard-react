@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/knowkwonn/nomard-react/static/css/main.073c9b0a.css",
+    "main.js": "/knowkwonn/nomard-react/static/js/main.09318f4d.js",
+    "static/js/787.061c3f26.chunk.js": "/knowkwonn/nomard-react/static/js/787.061c3f26.chunk.js",
+    "index.html": "/knowkwonn/nomard-react/index.html",
+    "main.073c9b0a.css.map": "/knowkwonn/nomard-react/static/css/main.073c9b0a.css.map",
+    "main.09318f4d.js.map": "/knowkwonn/nomard-react/static/js/main.09318f4d.js.map",
+    "787.061c3f26.chunk.js.map": "/knowkwonn/nomard-react/static/js/787.061c3f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.09318f4d.js"
+  ]
+}
